@@ -4,5 +4,5 @@ Git is a mutable index called stage.
 <<<<<<< HEAD
 heeh!
 =======
-Create a new branch is quick.
+Create a new branch is quick AND simple.
 >>>>>>> dev
